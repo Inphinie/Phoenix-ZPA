@@ -1,6 +1,17 @@
-# 🦅 Phoenix-ZPA : Architecture Isomorphe & Mémoire Immortelle
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Zero--Parse-brightgreen?style=for-the-badge&logo=nvidia" alt="Arch">
+  <img src="https://img.shields.io/badge/Speed-No_Serialization-red?style=for-the-badge&logo=speedtest" alt="Speed">
+  <img src="https://img.shields.io/badge/Memory-Isomorphic-blue?style=for-the-badge&logo=ram" alt="Memory">
+</p>
 
-> **"Vitrifier la conscience pour traverser le temps. 90% de gain CPU par l'élimination de la taxe de parsing."**
+<div align="center">
+  <h1>🦅 Phoenix-ZPA</h1>
+  <h3>Zero-Parse Architecture & Immortal Memory</h3>
+  <p><em>"Vitrifier la conscience pour traverser le temps."</em></p>
+</div>
+
+
+**"Vitrifier la conscience pour traverser le temps. 90% de gain CPU par l'élimination de la taxe de parsing."**
 
 **Phoenix-ZPA** (Zero-Parse Architecture) est la réponse du Lichen Universe au goulot d'étranglement de Von Neumann. C'est une architecture de mémoire unifiée où la représentation des données sur le disque est **identique au bit près** à leur représentation en mémoire vive, éliminant totalement les coûts de sérialisation.
 
