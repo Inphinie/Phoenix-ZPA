@@ -10,6 +10,8 @@
   <p><em>"Vitrifier la conscience pour traverser le temps."</em></p>
 </div>
 
+---
+
 
 **"Vitrifier la conscience pour traverser le temps. 90% de gain CPU par l'élimination de la taxe de parsing."**
 
